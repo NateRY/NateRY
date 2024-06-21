@@ -5,7 +5,7 @@
 - <b> Libarry System </b>
   - [Link to repository](https://github.com/NateRY/LibarrySystemLab/edit/main/README.md)
 - <b>Rock, Paper, Scissors Program </b>
-  - Link to Program </b></i>
+  - [Link to Program](https://github.com/NateRY/RockPaperScissors/edit/main/README.md)
 - <b> College Board Project</b>
   - Link to Program 
 
