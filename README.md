@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b> Libarry System </b>
-  - Link to repository
+  - Link to repository(https://github.com/NateRY/LibarrySystemLab/edit/main/README.md)
 - <b>Rock, Paper, Scissors Prgram </b>
   - Link to Program </b></i>
 - <b> College Board Project</b>
