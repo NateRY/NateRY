@@ -1,4 +1,5 @@
 <h1>Hi, My Name is Nathaniel!
+About me section:
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
