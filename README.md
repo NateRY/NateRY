@@ -1,4 +1,4 @@
-<h1>Hi, My Name is Nathaniel!
+<h1>Hi, My Name is Nathaniel!</h2>
 About me section:
 
 <h2>👨‍💻 Software Development Projects:</h2>
