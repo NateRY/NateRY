@@ -1,6 +1,6 @@
 <h1>Hi, My Name is Nathaniel!</h2>
 
-<b> Hello! I'm a dedicated computer programming student with a strong passion for software development. I thrive on solving complex problems and continuously learning new technologies. Currently, I'm honing my skills in languages such as Python, HTML, and C++.
+<b> Hello! I'm a dedicated computer programming student with a strong passion for software development. I thrive on solving complex problems and continuously learning new technologies. Currently, I'm honing my skills in languages such as C++, HTML, and Python.
 
 My projects showcase my ability to build functional and efficient applications, ranging from web development to data analysis. I'm particularly interested in open-source contributions and collaborative projects that push the boundaries of what software can achieve.
 
