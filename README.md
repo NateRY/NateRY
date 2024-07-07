@@ -9,13 +9,6 @@
 - <b> College Board Project</b>
   - [Link to Program](https://github.com/NateRY/CollegeBoardProject/edit/main/README.md)
 
-  
-- <b>PowerShell</b>
-  - 
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  -
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
