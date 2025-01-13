@@ -15,6 +15,9 @@ In addition to my technical skills, I bring a strong work ethic, attention to de
 - <b> College Board Project</b>
   - [Link to Program](https://github.com/NateRY/CollegeBoardProject/edit/main/README.md)
 
+ - <b>  isola(German game) </b>
+   - [Link to Program]( )
+
 - <b>Python</b>
   - p
 
