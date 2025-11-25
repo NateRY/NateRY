@@ -18,8 +18,6 @@ In addition to my technical skills, I bring a strong work ethic, attention to de
  - <b> Isola(German game) </b>
    - [Link to Program]( )
 
-- <b>Python</b>
-  - p
 
 
 
